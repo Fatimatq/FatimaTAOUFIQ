@@ -4,8 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimatq" alt="fatimatq" /></a> </p>
--  :school: I am a `second year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
-- 🔭 I’m currently working on [software development and UI/UX design at](http://www.inpt.ac.ma/)
+- I am a `second year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
+
+- 🔭 I’m currently working on [software development and UI/UX design at]<a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
 
 - 🌱 I’m currently learning **everything about Software Engineering (JAVA developement, Web Frameworks, Mobile development),**
 
