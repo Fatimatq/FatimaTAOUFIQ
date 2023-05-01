@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima TAOUFIQ</h1>
 <h3 align="center"> A passionate software development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimatq&label=Profile%20views&color=0e75b6&style=flat" alt="fatimatq" /> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimatq" alt="fatimatq" /></a> </p>
 - I am a `second year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
