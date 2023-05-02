@@ -58,6 +58,6 @@
 
 <p align="center">  
 <br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=003459&background=e1e5f2&center=true&vCenter=true&width=450&height=60&lines=Think+well+before+coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=27&duration=4700&pause=700&color=003459&background=e1e5f2&center=true&vCenter=true&width=450&height=60&lines=There+is+no+Ctrl-Z+in+life alt="Typing SVG" />
 
 </p>
