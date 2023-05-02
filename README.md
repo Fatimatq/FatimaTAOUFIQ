@@ -9,7 +9,7 @@
 <p>
 
 
-- 🔭 I’m currently working on [software development and UI/UX design at]<a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
+- 🔭 I’m currently working on `software development and UI/UX design` at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
 
 - 🌱 I’m currently learning **everything about Software Engineering (JAVA developement, Web Frameworks, Mobile development),**
 
